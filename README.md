@@ -32,7 +32,7 @@ python-learning-journey/
 | Subject                  | Description                                      |
 |--------------------------|--------------------------------------------------|
 | Basic Python             | Variables, loops, functions, OOP                 |
-| Python for Applications  | File handling, APIs, automation                  |
+| Python for Applications  | GUI development and automation (PyQt6)           |
 | Data Analysis            | Data cleaning, exploration, visualization        |
 
 ---
